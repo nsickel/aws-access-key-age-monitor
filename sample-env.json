@@ -1,0 +1,7 @@
+{
+    "Parameters": {
+        "ACCESS_KEY_ID": "YOUR KEY",
+        "ACCESS_SECRET": "YOUR SECRET",
+        "AWS_REGION": "eu-central-1"
+    }
+}
